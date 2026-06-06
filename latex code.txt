@@ -1,0 +1,192 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+\large\bfseries\scshape
+}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+%-------------------------------------------
+% HEADER
+%-------------------------------------------
+
+\begin{center}
+{\Huge \textbf{Kripa Patil}} [6pt]
+
+```
+\faPhone\ +91-7028959215 \quad
+\faEnvelope\ \href{mailto:kripapatil.official@gmail.com}{kripapatil.official@gmail.com}
+
+\vspace{4pt}
+
+\faLinkedin\ \href{https://www.linkedin.com/in/kripa-patil-data-analyst}
+{linkedin.com/in/kripa-patil-data-analyst}
+\quad | \quad
+\faGithub\ \href{https://github.com/Kripa-official}
+{github.com/Kripa-official}
+
+\vspace{4pt}
+
+\textbf{Data Analyst | Python | SQL | Power BI | Excel | Machine Learning | Data Visualization}
+```
+
+\end{center}
+
+%-------------------------------------------
+% PROFESSIONAL SUMMARY
+%-------------------------------------------
+
+\section{Professional Summary}
+
+Results-driven Data Analyst and aspiring Data Scientist with hands-on experience in healthcare, manufacturing, retail, and financial analytics projects. Skilled in Python, SQL, Power BI, Excel, Pandas, NumPy, Machine Learning, Data Visualization, and Exploratory Data Analysis (EDA). Experienced in building predictive models, performing statistical analysis, developing business insights, and creating data-driven solutions to improve operational efficiency and decision-making.
+
+%-------------------------------------------
+% EDUCATION
+%-------------------------------------------
+
+\section{Education}
+
+\textbf{G H Raisoni College of Engineering and Management, Nagpur (GHRCEMN)} \hfill 2024 -- 2027
+
+Bachelor of Computer Science \hfill CGPA: 7.0/10
+
+\vspace{4pt}
+
+\textbf{Adarsha Vidya Mandir High School & Junior College}
+
+Higher Secondary Education
+
+%-------------------------------------------
+% TECHNICAL SKILLS
+%-------------------------------------------
+
+\section{Technical Skills}
+
+\begin{itemize}[leftmargin=*]
+\item \textbf{Programming Languages:} Python, SQL
+\item \textbf{Data Analysis:} Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation, Statistical Analysis
+\item \textbf{Visualization & BI Tools:} Power BI, Microsoft Excel, Matplotlib, Seaborn
+\item \textbf{Machine Learning:} Scikit-Learn, Classification Models, Predictive Analytics, SMOTE
+\item \textbf{Libraries:} Pandas, NumPy
+\item \textbf{Database:} MySQL
+\item \textbf{Tools:} Jupyter Notebook, Git, GitHub, VS Code
+\end{itemize}
+
+%-------------------------------------------
+% INTERNSHIP
+%-------------------------------------------
+
+\section{Internship Experience}
+
+\textbf{Edverciity by LiveTechSkills} \hfill Data Analytics Intern
+
+\begin{itemize}[leftmargin=*]
+\item Worked on real-world analytics projects involving data cleaning, preprocessing, and visualization.
+\item Applied Python, Pandas, NumPy, and statistical analysis techniques to extract meaningful insights.
+\item Created visual reports and dashboards to support data-driven decision-making.
+\item Strengthened practical knowledge of analytics workflows and business problem solving.
+\end{itemize}
+
+%-------------------------------------------
+% PROJECTS
+%-------------------------------------------
+
+\section{Projects}
+
+\textbf{Healthcare Management System}
+\hfill
+\href{https://github.com/Kripa-official/Health-Care-Managment}{GitHub}
+
+\begin{itemize}[leftmargin=*]
+\item Developed a healthcare management platform integrating patient records, appointment scheduling, EMR, billing, and reporting functionalities.
+\item Designed a multi-tier architecture for efficient healthcare data management.
+\item Implemented secure access control and structured healthcare information workflows.
+\end{itemize}
+
+\vspace{3pt}
+
+\textbf{Fraud Detection Analysis}
+\hfill
+\href{https://github.com/Kripa-official/Fraud-Detection-Analysis}{GitHub}
+
+\begin{itemize}[leftmargin=*]
+\item Built machine learning models to identify fraudulent financial transactions from highly imbalanced datasets.
+\item Performed data preprocessing, feature scaling, and class balancing using SMOTE.
+\item Evaluated model performance using Precision, Recall, F1-Score, and Confusion Matrix metrics.
+\end{itemize}
+
+\vspace{3pt}
+
+\textbf{Manufacturing Defect Analysis}
+\hfill
+\href{https://github.com/Kripa-official/production-defect-eda}{GitHub}
+
+\begin{itemize}[leftmargin=*]
+\item Conducted exploratory data analysis on manufacturing defect datasets to identify defect trends and quality issues.
+\item Analyzed repair costs, inspection methods, and severity distributions.
+\item Created visualizations to support quality improvement and operational insights.
+\end{itemize}
+
+\vspace{3pt}
+
+\textbf{Retail Sales Analysis}
+\hfill
+\href{https://github.com/Kripa-official/Retail-Sales}{GitHub}
+
+\begin{itemize}[leftmargin=*]
+\item Analyzed retail sales data to identify customer purchasing patterns and sales trends.
+\item Performed data cleaning, aggregation, and visualization for business reporting.
+\item Generated actionable insights to support sales optimization and strategic decision-making.
+\end{itemize}
+
+%-------------------------------------------
+% ACHIEVEMENTS
+%-------------------------------------------
+
+\section{Achievements}
+
+\begin{itemize}[leftmargin=*]
+\item Developed 4 end-to-end analytics projects across healthcare, retail, manufacturing, and financial domains.
+\item Applied machine learning and statistical analysis techniques to solve real-world business problems.
+\item Built dashboards and visual reports using Power BI, Excel, Matplotlib, and Seaborn.
+\item Maintained an active GitHub portfolio showcasing practical Data Analytics and Machine Learning projects.
+\end{itemize}
+
+%-------------------------------------------
+% CERTIFICATIONS (Optional)
+%-------------------------------------------
+
+% Uncomment when you have certifications
+
+% \section{Certifications}
+%
+% \begin{itemize}[leftmargin=*]
+% \item Google Data Analytics Professional Certificate
+% \item Power BI for Data Analysis
+% \item SQL for Data Analytics
+% \end{itemize}
+
+\end{document}
